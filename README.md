@@ -19,6 +19,7 @@ Git, Ubuntu, Nginx, Gunicorn, Docker, VPS Deployment, PostgreSQL, MySQL, Redis
 
 ## Another github acc:
 https://github.com/TuanThanh0611
+https://github.com/TuanThanh1206
 https://github.com/ivo0611
 
 
